@@ -48,9 +48,9 @@ Estoy siguiendo la guía oficial de [Next.js](https://nextjs.org/learn/foundatio
 - [x] **Chapter 9**: Streaming
 - [x] **Chapter 10**: Partial Prerendering
 - [x] **Chapter 11**: Adding Search and Pagination
-- [ ] **Chapter 12**: Mutating Data
-- [ ] **Chapter 13**: Handling Errors
-- [ ] **Chapter 14**: Improving Accessibility
+- [x] **Chapter 12**: Mutating Data
+- [x] **Chapter 13**: Handling Errors
+- [x] **Chapter 14**: Improving Accessibility
 - [ ] **Chapter 15**: Adding Authentication
 - [ ] **Chapter 16**: Adding Metadata
 
