@@ -46,8 +46,8 @@ Estoy siguiendo la guía oficial de [Next.js](https://nextjs.org/learn/foundatio
 - [x] **Chapter 7**: Fetching Data
 - [x] **Chapter 8**: Static and Dynamic Rendering
 - [x] **Chapter 9**: Streaming
-- [ ] **Chapter 10**: Partial Prerendering
-- [ ] **Chapter 11**: Adding Search and Pagination
+- [x] **Chapter 10**: Partial Prerendering
+- [x] **Chapter 11**: Adding Search and Pagination
 - [ ] **Chapter 12**: Mutating Data
 - [ ] **Chapter 13**: Handling Errors
 - [ ] **Chapter 14**: Improving Accessibility
