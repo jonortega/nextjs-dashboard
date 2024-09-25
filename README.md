@@ -20,7 +20,7 @@ Sigue estos pasos para clonar y ejecutar el proyecto:
 
 1. Clona este repositorio:
 
-   git clone https://github.com/tu-usuario/nextjs-dashboard.git
+   git clone https://github.com/jonortega/nextjs-dashboard.git
 
 2. Instala las dependencias del proyecto:
 
@@ -31,6 +31,10 @@ Sigue estos pasos para clonar y ejecutar el proyecto:
    pnpm run dev
 
 4. Abre http://localhost:3000 en tu navegador para ver la aplicación.
+
+> **Nota:** Para poder acceder al dashboard, usa las siguientes credenciales:  
+> Email: `user@nextmail.com`  
+> Password: `123456`
 
 ## Progreso de la Guía
 
@@ -48,13 +52,12 @@ Estoy siguiendo la guía oficial de [Next.js](https://nextjs.org/learn/foundatio
 - [x] **Chapter 9**: Streaming
 - [x] **Chapter 10**: Partial Prerendering
 - [x] **Chapter 11**: Adding Search and Pagination
-- [ ] **Chapter 12**: Mutating Data
-- [ ] **Chapter 13**: Handling Errors
-- [ ] **Chapter 14**: Improving Accessibility
-- [ ] **Chapter 15**: Adding Authentication
-- [ ] **Chapter 16**: Adding Metadata
+- [x] **Chapter 12**: Mutating Data
+- [x] **Chapter 13**: Handling Errors
+- [x] **Chapter 14**: Improving Accessibility
+- [x] **Chapter 15**: Adding Authentication
+- [x] **Chapter 16**: Adding Metadata
 
-## Recursos útiles
+## Continuar Aprendiendo
 
-- [Documentación de Next.js](https://nextjs.org/docs)
-- [Documentación de Tailwind CSS](https://tailwindcss.com/docs)
+Una vez terminado el proyecto, continuar aprendiendo en la [Documentación de Next.js](https://nextjs.org/docs).
